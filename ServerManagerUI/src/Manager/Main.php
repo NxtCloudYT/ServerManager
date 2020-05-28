@@ -27,7 +27,7 @@ class Main extends PluginBase
     public function onEnable()
     {
         $this->getLogger()->info(self::PREFIX . "§aThis Plugin was enabled.");
-        $this->getLogger()->info(self::PREFIX . "§bThis Plugin was made by HowToRush!");
+        $this->getLogger()->info(self::PREFIX . "§bThis Plugin was made by NxtCloud!");
 
         $this->getServer()->getPluginManager()->registerEvents(new EventListener($this), $this);
 
