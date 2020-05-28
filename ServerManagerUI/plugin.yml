@@ -2,5 +2,5 @@ name: ServerManager
 main: Manager\Main
 version: 1.0.0
 api: 3.0.0
-author: HowToRush
+author: NxtCloud
 description: Server Manager for Pocketmine Servers!
